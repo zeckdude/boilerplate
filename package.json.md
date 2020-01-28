@@ -26,3 +26,6 @@
   }
 }
 ```
+
+## Notes
+The `format` command in scripts specifies that prettier should run on all `js` and `html` files within the any folder within the `src` directory. The `--write` flag indicates that prettier should modify any documents that need formatting and save them.
